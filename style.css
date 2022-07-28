@@ -1,0 +1,17 @@
+.p-dark{
+    filter: brightness(40%);
+}
+h1 {
+    font-size: 5.9vw;
+}
+
+h2 {
+    font-size: 3.0vh;
+}
+h6 {
+    font-size: 2vmin;
+}
+
+.pp {
+    font-size: 2vmin;
+}
